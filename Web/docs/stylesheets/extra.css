@@ -1,0 +1,7 @@
+:root {
+    --md-hue: 232;
+    --md-primary-fg-color: rgb(228, 148, 43);
+    --md-default-bg-color: hsla(var(--md-hue),15%,21%,1);
+    --md-default-fg-color: #E9EBFC;
+    --md-default-fg-color--light: #D2D7F99E;
+}

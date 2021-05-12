@@ -1,0 +1,15 @@
+site_name: XPackets
+repo_url: https://github.com/IlLevelMaker/XPackets
+repo_name: iiLevelMaker/XPackets
+extra:
+  homepage: XPackets/
+nav:
+    - Home: XPackets.md
+theme:
+  name: material
+  logo: /assets/logo.png/
+extra_css:
+  - stylesheets/extra.css
+plugins: 
+  - git-revision-date
+  
